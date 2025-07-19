@@ -1,1 +1,1 @@
-# 100 Days of Python Data Structures and ALgorithms
+# 100 Days of Python Data Structures and Algorithms
